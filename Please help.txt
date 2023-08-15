@@ -1,0 +1,10 @@
+I am presently engaged in the development of a voice-based assistant designed to operate on the Esp8266 hardware chip. This endeavor holds significant promise, albeit its scope is extensive and the associated tasks are substantial. Recognizing the considerable workload ahead, I am actively seeking volunteers who are enthusiastic about contributing to both the coding and testing aspects of this project.
+
+While I cannot assure absolute success in this venture, it's important to acknowledge that any project of this magnitude can encounter challenges along the way. However, these challenges are valuable opportunities for growth and innovation. If you are intrigued by this initiative and would like to be a part of it, you can access the project's progress here: https://github.com/rishikeshgithu/Automation_Via_Python/archive/refs/heads/main.zip.
+
+Feel free to connect with me through WhatsApp at your convenience. Your collaboration could play a significant role in the advancement of this project, and your efforts will be greatly appreciated.
+
+
+
+
+
